@@ -1,0 +1,11 @@
+aiogram>=3.0.0
+aiohttp
+backoff
+psutil
+pycryptodome
+protobuf==4.25.1
+google-api-python-client
+google-auth
+protobuf_decoder
+cfonts
+rich

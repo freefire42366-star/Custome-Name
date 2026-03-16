@@ -9,3 +9,6 @@ google-auth
 protobuf_decoder
 cfonts
 rich
+PyJWT
+urllib3
+
